@@ -1,0 +1,15 @@
+git init
+untuk menginisiasi direktori sekarang untuk diinisiasi oleh git
+masukin command git init untuk menginisiasi folder yg ada sekarang untuk diinisiasikan git
+pastikan file ini sudah ke save dulu, diliat dari tanda bulat putih di silang atau x tab nya
+kalau sudah di save jadi silang atau x di tab nya
+masukin git add di terminal, nanti ga terjadi apa apa
+untuk mengecek liat dengan command git status
+nanti ada keterangan new file di git status itu
+jangan lupa save dulu baru masukin git commit -m "first commit" nanti ada 1 file changed bla bla bla
+nanti kalo ada perubahan di isinya ada warna warnanya
+cara lain add dan commit masuk ke source control di samping kiri nanti untuk add pencet + nanti jadi stage control, untuk commit masukin message di kolom message klik ctrl enter
+untuk balikin pake git reset
+masukin command git reset baru masukin commit hash
+tapi perlu discard change di source control baru balik ke kodingan awal kita
+kalo mau discard langsung tanpa pencet discard change masukin command git reset --hard baru masukin commit hash
