@@ -13,3 +13,6 @@ untuk balikin pake git reset
 masukin command git reset baru masukin commit hash
 tapi perlu discard change di source control baru balik ke kodingan awal kita
 kalo mau discard langsung tanpa pencet discard change masukin command git reset --hard baru masukin commit hash
+git branch dev untuk membuat branch bagi dev
+untuk mengecek kita dimana ketik git branch
+untuk pindah ketik git checkout dev
